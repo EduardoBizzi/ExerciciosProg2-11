@@ -1,0 +1,16 @@
+1)
+a)Eficiência de tempo significa o código demorar o menor tempo possível para ser realizado.
+
+b)1. Do tempo que a máquina leva para executar uma instrução ou um
+passo de programa.
+2. Da natureza do algoritmo, i.e., de quantos passos são necessários
+para se resolver o problema para um dado.
+3. Do tamanho do conjunto de dados que constitui o problema.
+
+c)1. Do tempo que a máquina leva para executar uma instrução ou um
+passo de programa.
+
+d)Do tamanho do conjunto de dados que constitui o problema.
+
+e) a notação Big O (ou notação assintótica) é a mais utilizada para expressar a complexidade de tempo de um 
+algoritmo.

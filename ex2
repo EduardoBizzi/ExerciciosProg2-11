@@ -1,0 +1,5 @@
+A Big O Notation é uma notação especial que indica a complexidade de um
+algoritmo. Na realidade, existem várias notações: big e small O, big e small
+omega e theta. A notação do O é sobre um “limite por cima”; a omega, “limite por
+baixo”; e a theta é a combinação de ambos. ‘Small’ Notations representam
+afirmações mais rígidas sobre a complexidade do que ‘Big’ Notations.
